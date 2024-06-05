@@ -1,0 +1,9 @@
+:root {
+    --custom-background-color: #884EA0 !important;
+}
+.bg-primary {
+    background-color: var(--custom-background-color) !important;
+}
+.nav-link.active {
+    background-color: var(--custom-background-color) !important;
+}
